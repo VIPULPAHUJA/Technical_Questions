@@ -1,0 +1,16 @@
+Question - 1  What is DBMS?
+Solution - DBMS is a collection of programs that facilitates users to create and maintain a database.
+In other words, DBMS provides us an interface or tool for performing different operations such as the creation of a database, inserting data into it, deleting data from it, updating the data, etc. 
+
+Question - 2 What are the advantages and disadvantages of DBMS?
+Solution - Advantages :-
+1. Redundancy Controlled
+2. Ease in accessing data
+3. data Consistency
+4. Secure
+
+Disadvantages :-
+1. Operating Cost is high
+2. Need expertise to handle ( Complex)
+3. Confidentiality issues
+4. Performance issues
