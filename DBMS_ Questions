@@ -14,3 +14,13 @@ Disadvantages :-
 2. Need expertise to handle ( Complex)
 3. Confidentiality issues
 4. Performance issues
+
+Question - 3 What do you mean by transparent DBMS?
+Solution - The transparent DBMS is a type of DBMS which keeps its physical structure hidden from users.
+Physical structure or physical storage structure implies to the memory manager of the DBMS, and it describes how the data stored on disk.
+
+Question - 4 How many types of database languages are?
+Solution - 1. Data Definition Language (DDL) 
+2. Data Manipulation Language (DML) 
+3. DATA Control Language (DCL)
+4. Transaction Control Language (TCL) 
