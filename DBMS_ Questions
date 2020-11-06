@@ -1,6 +1,7 @@
 Question - 1  What is DBMS?
 Solution - DBMS is a collection of programs that facilitates users to create and maintain a database.
-In other words, DBMS provides us an interface or tool for performing different operations such as the creation of a database, inserting data into it, deleting data from it, updating the data, etc. 
+In other words, DBMS provides us an interface or tool for performing different operations such as the creation of a database, inserting data into it,
+deleting data from it, updating the data, etc. 
 
 Question - 2 What are the advantages and disadvantages of DBMS?
 Solution - Advantages :-
@@ -24,3 +25,13 @@ Solution - 1. Data Definition Language (DDL)
 2. Data Manipulation Language (DML) 
 3. DATA Control Language (DCL)
 4. Transaction Control Language (TCL) 
+
+Question - 5 What is a database ?
+Solution - A Database is a logical, consistent and organized collection of data that it can easily be accessed, managed and updated.
+Databases, also known as electronic databases are structured to provide the facility of creation, insertion, updating of the data efficiently 
+and are stored in the form of a file or set of files.
+
+Question - 6 What are the unary operations in Relational Algebra?
+Solution - Unary operations are those operations which use single operands. 
+Ex - As in SELECTION relational operators are used for example - =,<=,>=, and Projection etc.
+
