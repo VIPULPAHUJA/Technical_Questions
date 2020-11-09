@@ -35,3 +35,19 @@ Question - 6 What are the unary operations in Relational Algebra?
 Solution - Unary operations are those operations which use single operands. 
 Ex - As in SELECTION relational operators are used for example - =,<=,>=, and Projection etc.
 
+Question - 7 What are ACID properties?
+Solution - ACID properties are for transactions:
+
+A => Atomicity: the entire transaction happens in one go
+C => Consistency: database must be consistent before and after the transaction
+I => Isolation: transactions do not interfere with each other; multiple
+transactions can happen simultaneously
+D => Durability: A successful transaction is reflected even if a system failure happens.
+
+Question - 8 What are the different types of relationships in the DBMS ?
+Solution - One-to-One: Each table record is related to only one record in another table. Example, employee_id, and unique_ssn_id
+
+One-to-many or vice-versa (many-to-one): A record in one table can be related to more than one record in another table. Example, employee_id and phone_number
+
+Many-to-Many: A record in the first table can be related to more than one records in the second table, and vice-versa: example, customer_id and product_id.
+
