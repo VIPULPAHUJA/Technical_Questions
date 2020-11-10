@@ -1,0 +1,11 @@
+Question - 1 What is a Network?
+Solution - Network is defined as a set of devices connected to each other using a physical transmission medium.
+
+Question - 2 What are the layers in OSI Reference Models? Describe each layer briefly.
+Solution - 1. Physical Layer
+2. Datalink Layer
+3. Network Layer
+4. Transport Layer
+5. Session Layer
+6. Presentation Layer
+7. Application Layer
