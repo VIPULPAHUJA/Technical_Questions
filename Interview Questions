@@ -1,0 +1,10 @@
+Question - 1 What is SDLC?
+Solution - Software Development Life Cycle (SDLC) is an end to end process that defines the flow of the development of a project from requirements stage to the maintenance and support stage. 
+The stages in SDLC are requirements analysis, planning, definition, design, development, testing, deployment, and support (maintenance).
+
+Question - 2 Do you know what is waterfall model?
+Solution - This approach follows breaking down of project activities into different phases.
+Once a stage is completed, the next stage in the sequence is followed.
+
+Question - 3 What is a pointer? 
+Solution - Pointer is a variable that stores the address of another variable. 
