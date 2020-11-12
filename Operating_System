@@ -1,0 +1,10 @@
+Question - 1  What are the different operating systems?
+Solution - 
+1. Batched operating systems
+2. Distributed operating systems
+3. Timesharing operating systems
+4. Multi-programmed operating systems
+5. Real-time operating systems
+
+Question - 2 What is a socket?
+Solution - Socket is used to make connection between two applications. Endpoints of the connection are called socket.
