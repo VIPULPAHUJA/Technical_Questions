@@ -2,9 +2,46 @@ Question - 1 What is SDLC?
 Solution - Software Development Life Cycle (SDLC) is an end to end process that defines the flow of the development of a project from requirements stage to the maintenance and support stage. 
 The stages in SDLC are requirements analysis, planning, definition, design, development, testing, deployment, and support (maintenance).
 
-Question - 2 Do you know what is waterfall model?
-Solution - This approach follows breaking down of project activities into different phases.
-Once a stage is completed, the next stage in the sequence is followed.
+Question - 2 Explain some important differences between C & C++.
+Solution - C - language :- 
+1. C is a procedural language.
+2. Dynamic memory allocation is done through malloc() and calloc() functions.
+3. Main function can be called from any other functions.
+4. No operator and function overloading
+5. Exception handling is not supported
+
+C++ - Language
+1. C++ is an Object-Oriented language.
+2. Memory allocation is done using the ‘new’ operator.
+3. Main function cannot be called from any other functions.
+4. It is easy to implement function overloading and operator overloading in C++
+5. Full support for exception handling
+
 
 Question - 3 What is a pointer? 
-Solution - Pointer is a variable that stores the address of another variable. 
+Solution - Pointer is a variable that stores the address of another variable that contains some value in it.. 
+
+Question - 4 What is memory Leak in Heap ?
+Solution - When there is a space area in heap , but no variable in stack pointing to that memory location.
+
+Question - 5 What is Inhertiance ? Name its types.
+Solution - Inheritance refers to inheriting the data members and properties of a parent class to a child class. A class 
+which is derived from another class is often called as a sub-class, and the class from which the child class is derived is known as super-class or parent class.
+
+Its types are :- 
+1. Single inheritance
+2. Multiple Inheritance
+3. Multi-level Inheritance
+4. Multi-path Inheritance
+5. Hierarchical Inheritance
+6. Hybrid Inheritance
+
+Question - 6 What is Deadlock ? Name its Prevention Techniques .
+Solution - Deadlock is a situation where a set of processes are blocked because each process is holding a resource 
+and waiting for another resource acquired by some other process. 
+
+Its Prevention Techniques are :- 
+1. Mutual exclusion
+2. Resource holding
+3. No preemption
+4. Circular wait
