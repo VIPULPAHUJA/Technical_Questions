@@ -51,3 +51,25 @@ One-to-many or vice-versa (many-to-one): A record in one table can be related to
 
 Many-to-Many: A record in the first table can be related to more than one records in the second table, and vice-versa: example, customer_id and product_id.
 
+
+Question - 9 Describe the types of keys?
+Solution - 1. Primary Key
+2. Candidate Key
+3. Super Key
+4. Foreign Key
+
+
+Question - 10 What is Join?
+Solution - The Join operation is one of the most useful activities in relational algebra.
+It is most commonly used way to combine information from two or more relations. 
+
+Types of Joins 
+A. inner Join :
+ 1. Theta join
+ 2. Natural join
+ 3. Equi join
+B. Outer Join :
+ 1. Left outer join
+ 2. Right outer join
+ 3. Full outer join
+ 
