@@ -73,3 +73,39 @@ B. Outer Join :
  2. Right outer join
  3. Full outer join
  
+Question - 11 How can you delete the duplicate row in a table?
+Solution - To overcome this problem, we use a DISTINCT keyword.
+
+
+Question - 12 What is the difference between UNIQUE key and PRIMARY key constraints?
+Solution - Unique Key :- 
+1. A table can contain multiple unique keys.
+2. NULL values are allowed.
+3. It helps to maintain a unique data in a column of a table.
+
+Primary Key - 
+1. A table can contain only one primary key.
+2. NULL values are not allowed.
+3. It helps to identify a unique row from a table.
+ 
+ 
+Question -13 What do you mean by Object-Relational DBMS?
+Solution The object-relational database (ORD) is a database management system (DBMS) that are composed of both an object-oriented database (OODBMS) 
+and a relational database (RDBMS). ORD supports the essential components of an object-oriented database model in its schemas and the query language used,
+such as inheritance, classes, and objects.
+ 
+ 
+Question - 14 What are SQL triggers?
+Solution - Triggers are stored procedures that are invoked when some event like insert, update or delete happens in the database on a particular table.
+
+
+Question - 15 What do you understand by Data Model?
+Solution The Data model is specified as a collection of conceptual tools for describing data, data relationships, data semantics and constraints. 
+
+Here is the number of data models:
+
+Hierarchical data model
+network model
+relational model
+Entity-Relationship model
+ 
