@@ -19,3 +19,12 @@ Solution - An executing program is known as process. There are two types of proc
 
 1. Operating System Processes
 2. User Processes
+
+Question - 5 What is Linux ?
+Solution - Linux is a UNIX based operating system.  It is an open source operating system that was designed to provide
+free and a low-cost operating system for the computer users.
+
+Question - 6 What is LILO?
+Solution - LILO is a boot loader for Linux. It is used to load the Linux operating system into the main memory to begin its operations.
+
+
