@@ -26,3 +26,18 @@ Solution - 1. Data Definition Language (DDL)
 3. DATA Control Language (DCL)
 4. Transaction Control Language (TCL) 
 
+
+Question - 5 What is a database?
+Solution - Database is a logical, consistent and organized collection of data that it can easily be accessed, managed and updated.
+Databases are structured to provide the facility of creation, insertion, updating of the data efficiently and are stored in the form of a file or
+set of files, on the magnetic disk, tapes and another sort of secondary devices.
+
+
+Question - 6 What are the various kinds of interactions catered by DBMS?
+Solution - The various kind of interactions catered by DBMS are:
+ 1. Data definition
+ 2. Update
+ 3. Retrieval
+ 4. Administration
+
+ 
