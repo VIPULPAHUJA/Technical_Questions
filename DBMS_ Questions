@@ -39,5 +39,10 @@ Solution - The various kind of interactions catered by DBMS are:
  2. Update
  3. Retrieval
  4. Administration
+ 
+ 
+ Question - 7 What are the unary operations in Relational Algebra?
+ Solution - PROJECTION and SELECTION are the unary operations in relational algebra.
+ Unary operations are those operations which use single operands. Unary operations are SELECTION, PROJECTION, and RENAME.
 
  
