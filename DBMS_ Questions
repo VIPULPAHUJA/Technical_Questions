@@ -44,5 +44,22 @@ Solution - The various kind of interactions catered by DBMS are:
  Question - 7 What are the unary operations in Relational Algebra?
  Solution - PROJECTION and SELECTION are the unary operations in relational algebra.
  Unary operations are those operations which use single operands. Unary operations are SELECTION, PROJECTION, and RENAME.
+ 
+ 
+ Question - 8 How can you delete duplicate rows in a table ?
+ Solution - we can remove duplicate rows while retrieving data using distinct clause.
+ 
+ 
+ Question 9 - what are different levels of abstraction in DBMS ?
+ Solution - 
+ 1. Physical level
+ 2. Logical Level
+ 3. View level
+ 
+ Question - 10 Define different types of relation in DBMS ?
+ Solution - 
+ 1. One to one
+ 2. One to many
+ 3. Many to many
 
  
