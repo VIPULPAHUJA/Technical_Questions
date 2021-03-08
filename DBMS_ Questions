@@ -61,5 +61,26 @@ Solution - The various kind of interactions catered by DBMS are:
  1. One to one
  2. One to many
  3. Many to many
+ 
+ 
+ Question - 11 What is a degree of Relation?
+ Solution The degree of relation is a number of attribute of its relation schema. A degree of relation is 
+ also known as Cardinality it is defined as the number of occurrence of one entity which is connected to
+ the number of occurrence of other entity.
 
+
+ Question - 12 What is Join?
+ SOlution - The Join operation is one of the most useful activities in relational algebra.
+ It is most commonly used way to combine information from two or more relations. 
+ 
+ There are following types of join:
+
+Inner joins: Inner join is of 3 categories. They are:
+Theta join
+Natural join
+Equi join
+Outer joins: Outer join have three types. They are:
+Left outer join
+Right outer join
+Full outer join
  
